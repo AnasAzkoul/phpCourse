@@ -1,0 +1,17 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  display: grid;
+  height: 100vh;
+  place-items: center;
+  font-family: sans-serif;
+}
+
+ul {
+  margin-top: 10px;
+}
+
